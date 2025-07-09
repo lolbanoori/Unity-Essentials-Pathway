@@ -22,7 +22,7 @@ Unity-Essentials-Pathway/
 │           ├── 4_LivingRoom_Programming_Scene.unity
 │           ├── 5_TopDown_2D_Scene.unity
 │           └── 6_Bonus_Custom_Scene.unity
-
+```
 
 ---
 
